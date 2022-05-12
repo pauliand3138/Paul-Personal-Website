@@ -614,8 +614,6 @@ img {
 
 .qualification__active[data-content] {
   display: block;
-  margin: 0 auto;
-
 }
 
 .qualification__button.qualification__active{
