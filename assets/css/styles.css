@@ -672,7 +672,7 @@ img {
 }
 
 .swiper-container-horizontal > .swiper-pagination-bullets{
-  bottom: 1.5rem;
+  bottom: -0.5rem;
 }
 
 .swiper-button-prev,
